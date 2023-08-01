@@ -2,4 +2,3 @@ data/intermediate_data/
 data/intermediate_data/
 data/**/*.docx
 results/
-venv/bin/
